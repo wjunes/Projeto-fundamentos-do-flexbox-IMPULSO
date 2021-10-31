@@ -3,6 +3,7 @@
     height: 150px;
     border: 2px solid black;
     max-width: 300px;
+    flex-direction: ;
 }
 
 .item{
@@ -37,4 +38,8 @@
 
 .orange{
     background-color: orangered;
+}
+
+.purple{
+    background-color: purple;
 }
